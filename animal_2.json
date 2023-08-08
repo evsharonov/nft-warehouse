@@ -1,0 +1,16 @@
+{
+    "name": "Animals Token",
+    "description": "NFT development",
+    "image": "https://evsharonov.github.io/nft-warehouse/animal_2.webp",
+    "external_url": "https://github.com/evsharonov/",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Animal"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Animals"
+        }
+    ]
+}
